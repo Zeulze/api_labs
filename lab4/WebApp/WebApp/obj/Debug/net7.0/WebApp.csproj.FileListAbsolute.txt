@@ -1,0 +1,81 @@
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\bin\Debug\net7.0\appsettings.json
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\bin\Debug\net7.0\WebApp.staticwebassets.runtime.json
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\bin\Debug\net7.0\WebApp.exe
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\bin\Debug\net7.0\WebApp.deps.json
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\bin\Debug\net7.0\WebApp.runtimeconfig.json
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\bin\Debug\net7.0\WebApp.dll
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\bin\Debug\net7.0\WebApp.pdb
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\obj\Debug\net7.0\WebApp.csproj.AssemblyReference.cache
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\obj\Debug\net7.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\obj\Debug\net7.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\obj\Debug\net7.0\WebApp.AssemblyInfo.cs
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\obj\Debug\net7.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\obj\Debug\net7.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\obj\Debug\net7.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApp.props
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\obj\Debug\net7.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\obj\Debug\net7.0\WebApp.dll
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\obj\Debug\net7.0\refint\WebApp.dll
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\obj\Debug\net7.0\WebApp.pdb
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\obj\Debug\net7.0\WebApp.genruntimeconfig.cache
+C:\Users\lapat\Desktop\3 курс, 2 семестр\WebApp\WebApp\obj\Debug\net7.0\ref\WebApp.dll
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\bin\Debug\net7.0\appsettings.json
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\bin\Debug\net7.0\WebApp.staticwebassets.runtime.json
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\bin\Debug\net7.0\WebApp.exe
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\bin\Debug\net7.0\WebApp.deps.json
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\bin\Debug\net7.0\WebApp.runtimeconfig.json
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\bin\Debug\net7.0\WebApp.dll
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\bin\Debug\net7.0\WebApp.pdb
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\obj\Debug\net7.0\WebApp.csproj.AssemblyReference.cache
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\obj\Debug\net7.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\obj\Debug\net7.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\obj\Debug\net7.0\WebApp.AssemblyInfo.cs
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\obj\Debug\net7.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\obj\Debug\net7.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\obj\Debug\net7.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApp.props
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\obj\Debug\net7.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\obj\Debug\net7.0\WebApp.dll
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\obj\Debug\net7.0\refint\WebApp.dll
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\obj\Debug\net7.0\WebApp.pdb
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\obj\Debug\net7.0\WebApp.genruntimeconfig.cache
+C:\Users\lapat\Desktop\4 курс 1 семестр\WebApp\WebApp\obj\Debug\net7.0\ref\WebApp.dll
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\bin\Debug\net7.0\WebApp.staticwebassets.runtime.json
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\bin\Debug\net7.0\WebApp.exe
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\bin\Debug\net7.0\WebApp.deps.json
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\bin\Debug\net7.0\WebApp.runtimeconfig.json
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\bin\Debug\net7.0\WebApp.dll
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\bin\Debug\net7.0\WebApp.pdb
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\obj\Debug\net7.0\WebApp.csproj.AssemblyReference.cache
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\obj\Debug\net7.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\obj\Debug\net7.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\obj\Debug\net7.0\WebApp.AssemblyInfo.cs
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\obj\Debug\net7.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\obj\Debug\net7.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\obj\Debug\net7.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApp.props
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\obj\Debug\net7.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\obj\Debug\net7.0\WebApp.dll
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\obj\Debug\net7.0\refint\WebApp.dll
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\obj\Debug\net7.0\WebApp.pdb
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\obj\Debug\net7.0\WebApp.genruntimeconfig.cache
+C:\Users\Zeulze\Desktop\апи\lab4\WebApp\WebApp\obj\Debug\net7.0\ref\WebApp.dll
